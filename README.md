@@ -9,7 +9,6 @@ I am dedicated to continuously improving my skills and keeping up with the lates
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -25,17 +24,15 @@ I am dedicated to continuously improving my skills and keeping up with the lates
 ### 🌱 I'm currently learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🏹 My main motivations are:
-- The combination of code and design: an unique user experience makes all the difference.
-- Solving challenging problems: There's nothing like that "Aha!" moment when you realize how to improve your code.
-- Being part of a team: The prospect of working with and learning from more experienced developers as part of a team is really exciting.
-- Growing and improving: To see my work make a real impact.
-- The joy of create ✌
+### 🏹 I'm pointing at:
+- Be part of a team: The prospect of working with and learning from more experienced developers as part of a team is really exciting.
+- Grow as a person.
+- Experience the joy of create. 🎨
 
-### 🔭 I'm looking forward to enter in the IT world. Help me find the door! 🚪
-Feel free to check my repos out and leave any feedback or suggestions!
+Feel free to check my portfolio and repos out and leave any feedback or suggestions!
 
 ### ⚡ Connect with me
+![Portfolio](https://www.ramirof.vercel.app)
 ![ramirofiscella@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
