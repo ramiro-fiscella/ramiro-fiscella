@@ -1,4 +1,4 @@
-## Hi there ✌ I'm Ramiro *K*. Fiscella
+## Hi there ✌ I'm Ramiro Fiscella
 ### *Web Developer from Buenos Aires, Argentina*
 
 I am dedicated to continuously improving my skills and keeping up with the latest trends and technologies in web development.
