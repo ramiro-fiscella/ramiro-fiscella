@@ -32,7 +32,7 @@ I am dedicated to continuously improving my skills and keeping up with the lates
 Feel free to check my portfolio and repos out and leave any feedback or suggestions!
 
 ### ⚡ Connect with me
-![Portfolio](https://www.ramirof.vercel.app)
+![Portfolio](www.ramirof.vercel.app)
 ![ramirofiscella@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
