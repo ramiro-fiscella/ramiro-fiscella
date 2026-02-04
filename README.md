@@ -61,7 +61,9 @@ Detail-oriented — Small details make big differences
 │  GitHub Stats                           │
 └─────────────────────────────────────────┘
 ```
-
+`https://github-readme-stats.vercel.app`  
+- 🏆 GitHub Trophies: `https://github-profile-trophy.vercel.app`  
+- 🔁 Streaks: `https://streak-stats.demolab.com`  
 ![](https://github-readme-stats.vercel.app/api?username=ramiro-fiscella&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=384fff)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro-fiscella&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
