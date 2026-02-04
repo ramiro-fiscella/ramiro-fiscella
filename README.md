@@ -1,109 +1,85 @@
-<div align="center">
+<!-- Header con nombre, rol y links principales -->
+<h1 align="center">👋 Hola! Soy <strong>Ramiro Fiscella</strong></h1>
+<p align="center">UX/UI & Web Developer — Diseño con intención, código limpio y experiencias memorables</p>
 
-```ascii
-────────────────────────────────────────────
-        ramiro.fiscella
-────────────────────────────────────────────
-```
-
-# Diseñador UX/UI & Desarrollador Web
-
-**Buenos Aires, Argentina** — Disponible para colaborar
-
-> *Construyendo experiencias digitales donde la creatividad se encuentra con la ingeniería intencional.*
-
-<br>
-
-### [ Links ]
-
-**Portfolio** → [ramirof.vercel.app](https://ramirof.vercel.app)  
-**LinkedIn** → [in/ramiro-fiscella](https://linkedin.com/in/ramiro-fiscella)  
-**Behance** → [ramiro-fiscella](https://behance.net/ramiro-fiscella)  
-**Email** → [ramirofiscella@gmail.com](mailto:ramirofiscella@gmail.com)
-
-<br>
+<p align="center">
+  <a href="https://ramirof.vercel.app">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/ramirofiscella">🔗 LinkedIn</a> • 
+  <a href="https://github.com/ramirof">🐙 GitHub</a> • 
+  <a href="https://www.behance.net/ramirof">🎨 Behance</a>
+</p>
 
 ---
 
-<br>
+## 💼 Sobre mí
 
-## 01 → Sobre mí
+Soy un diseñador UX/UI y desarrollador web con enfoque en experiencias intuitivas y frontends limpios. Me apasiona trabajar en la intersección entre **diseño** y **código**, creando soluciones que se sienten naturales, atractivas y funcionales.
 
-Diseñador y desarrollador que cree que las mejores experiencias digitales ocurren cuando la creatividad se encuentra con la ingeniería intencional.
-
-Mi enfoque es simple: construir interfaces que se sientan naturales, código limpio y productos que la gente realmente quiera usar. Prospero en la intersección del diseño y el desarrollo, donde los píxeles se encuentran con las funciones y las ideas se convierten en experiencias.
-
-Actualmente explorando arquitecturas frontend modernas, sistemas de diseño y encontrando mejores formas de cerrar la brecha entre lo que se ve bien y lo que funciona bien.
-
-<br>
-
-## 02 → Stack
-
-### Diseño
-```
-UI/UX Design • Design Systems • Prototyping • Visual Design
-Figma • Adobe XD • Illustrator • Photoshop
-```
-
-### Desarrollo
-```
-React • TypeScript • JavaScript • Astro
-Tailwind CSS • Sass • Styled Components • GSAP
-Node.js • Express • PostgreSQL • MySQL
-```
-
-### Workflow
-```
-Git • Linux • Bash • Vite
-```
-
-<br>
-
-## 03 → Proyectos destacados
-
-**[Travel Bike](https://ramirof.vercel.app/projects/travel-bike)** — Diseño UX/UI · 2025  
-**[BUMBUM Android](https://ramirof.vercel.app/projects/bumbum)** — Diseño UX/UI · 2024  
-**[Cleric](https://ramirof.vercel.app/projects/cleric)** — Desarrollo Web & Diseño UX/UI · 2024
-
-<br>
-
-## 04 → Mentalidad
-
-**Orientado a la innovación** — Siempre buscando mejores formas de resolver problemas  
-**Enfocado en el usuario** — El diseño debe servir a las personas, no al ego  
-**Detallista** — Los pequeños detalles hacen grandes diferencias
-
-<br>
+Actualmente:  
+✨ Explorando arquitecturas frontend modernas  
+⚡ Integrando diseño visual con desarrollo con React, Astro y Tailwind  
 
 ---
 
-<br>
+## 🛠️ Tecnologías que uso
 
-<div align="center">
-
-### 🎵 Escuchando ahora
-
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
-
-<sub>Kali para los amigos 🏹</sub>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=ramiro-fiscella&style=flat-square&color=384fff)
-
-</div>
-
-<br>
+| Diseño | Desarrollo | Otras Skills |
+|--------|------------|--------------|
+| Figma | React | Git & GitHub |
+| UI/UX Systems | TypeScript | Agile & Collaboración |
+| Prototipado | Astro | Diseño Centrado en el Usuario |
+| Tailwind | GSAP | Metodologías UX |
 
 ---
 
-<br>
+## 📌 Proyectos destacados
 
-<div align="center">
+Estos son algunos de mis trabajos más relevantes. Para más detalles, visita mi sitio 👆.
 
-**© 2026 Ramiro Fiscella**
+- 🌎 **Travel Bike** — Diseño UX/UI · 2025  
+- 📱 **BUMBUM Android** — Diseño UX/UI · 2024  
+- 💻 **Cleric** — Desarrollo Web + UX/UI · 2024  
 
-*Construyamos algo significativo juntos.*
+---
 
-</div>
-</div>  
+## 🎧 Música
+
+🎶 Me gusta descubrir y compartir música para inspiración y concentración:
+
+👉 **YouTube Music Playlist:**  
+https://music.youtube.com/playlist?list=TU_PLAYLIST (o si tienes canal)
+
+---
+
+## 📺 Contenido & Publicaciones
+
+Si te gusta ver procesos o proyectos en video:
+
+🎥 **YouTube:** https://www.youtube.com/@TU_CANAL (si tienes canal)  
+🧠 **Artículos / Blog:** (si escribís en Medium u otro) — agrega aquí
+
+---
+
+## 📊 Stats (opcional)
+
+Puedes agregar widgets como:  
+- 📈 GitHub Stats: `https://github-readme-stats.vercel.app`  
+- 🏆 GitHub Trophies: `https://github-profile-trophy.vercel.app`  
+- 🔁 Streaks: `https://streak-stats.demolab.com`  
+
+*(estos se agregan como imágenes generadas en tu README)*.
+
+---
+
+## 🚀 Contacto
+
+¿Querés colaborar, trabajar en un proyecto o simplemente charlar?  
+📬 ¡Estoy abierto a nuevas oportunidades!
+
+✉️ ramirofiscella@example.com (o tu email)
+
+---
+
+<p align="center">
+  ❤️ Gracias por visitar mi perfil! 
+</p>
