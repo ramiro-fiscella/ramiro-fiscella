@@ -1,85 +1,73 @@
-<!-- Header con nombre, rol y links principales -->
-<h1 align="center">👋 Hola! Soy <strong>Ramiro Fiscella</strong></h1>
-<p align="center">UX/UI & Web Developer — Diseño con intención, código limpio y experiencias memorables</p>
+```
+┌─────────────────────────────────────────┐
+│  ramiro.fiscella                        │
+│  Designer & Developer                   │
+│  Buenos Aires, AR                       │
+└─────────────────────────────────────────┘
+```
 
-<p align="center">
-  <a href="https://ramirof.vercel.app">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/ramirofiscella">🔗 LinkedIn</a> • 
-  <a href="https://github.com/ramirof">🐙 GitHub</a> • 
-  <a href="https://www.behance.net/ramirof">🎨 Behance</a>
-</p>
+Building digital experiences where creativity meets intentional engineering.
 
----
+Currently available for collaboration.
 
-## 💼 Sobre mí
+—
 
-Soy un diseñador UX/UI y desarrollador web con enfoque en experiencias intuitivas y frontends limpios. Me apasiona trabajar en la intersección entre **diseño** y **código**, creando soluciones que se sienten naturales, atractivas y funcionales.
+**Links**  
+Portfolio → [ramirof.vercel.app](https://ramirof.vercel.app)  
+LinkedIn → [ramiro-fiscella](https://linkedin.com/in/ramiro-fiscella)  
+Behance → [ramiro-fiscella](https://behance.net/ramiro-fiscella)  
+Email → [ramirofiscella@gmail.com](mailto:ramirofiscella@gmail.com)
 
-Actualmente:  
-✨ Explorando arquitecturas frontend modernas  
-⚡ Integrando diseño visual con desarrollo con React, Astro y Tailwind  
+—
 
----
+**About**
 
-## 🛠️ Tecnologías que uso
+Designer and developer who believes the best digital experiences happen when creativity meets intentional engineering.
 
-| Diseño | Desarrollo | Otras Skills |
-|--------|------------|--------------|
-| Figma | React | Git & GitHub |
-| UI/UX Systems | TypeScript | Agile & Collaboración |
-| Prototipado | Astro | Diseño Centrado en el Usuario |
-| Tailwind | GSAP | Metodologías UX |
+My approach is simple: build interfaces that feel natural, clean code, and products people actually want to use. I thrive at the intersection of design and development—where pixels meet functions and ideas become experiences.
 
----
+Currently exploring modern frontend architectures, design systems, and finding better ways to bridge the gap between what looks good and what works well.
 
-## 📌 Proyectos destacados
+—
 
-Estos son algunos de mis trabajos más relevantes. Para más detalles, visita mi sitio 👆.
+**Stack**
 
-- 🌎 **Travel Bike** — Diseño UX/UI · 2025  
-- 📱 **BUMBUM Android** — Diseño UX/UI · 2024  
-- 💻 **Cleric** — Desarrollo Web + UX/UI · 2024  
+Design → UI/UX · Design Systems · Prototyping · Figma  
+Frontend → React · TypeScript · Astro · Tailwind · GSAP  
+Backend → Node.js · Express · PostgreSQL  
+Tools → Git · Linux · Bash
 
----
+—
 
-## 🎧 Música
+**Selected Work**
 
-🎶 Me gusta descubrir y compartir música para inspiración y concentración:
+[Travel Bike](https://ramirof.vercel.app/projects/travel-bike) — UX/UI Design · 2025  
+[BUMBUM Android](https://ramirof.vercel.app/projects/bumbum) — UX/UI Design · 2024  
+[Cleric](https://ramirof.vercel.app/projects/cleric) — Web Development & UX/UI Design · 2024
 
-👉 **YouTube Music Playlist:**  
-https://music.youtube.com/playlist?list=TU_PLAYLIST (o si tienes canal)
+—
 
----
+**Mindset**
 
-## 📺 Contenido & Publicaciones
+Innovation-driven — Always seeking better ways to solve problems  
+User-focused — Design should serve people, not ego  
+Detail-oriented — Small details make big differences
 
-Si te gusta ver procesos o proyectos en video:
+—
 
-🎥 **YouTube:** https://www.youtube.com/@TU_CANAL (si tienes canal)  
-🧠 **Artículos / Blog:** (si escribís en Medium u otro) — agrega aquí
 
----
+```
+┌─────────────────────────────────────────┐
+│  GitHub Stats                           │
+└─────────────────────────────────────────┘
+```
 
-## 📊 Stats (opcional)
+![](https://github-readme-stats.vercel.app/api?username=ramiro-fiscella&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=384fff)
 
-Puedes agregar widgets como:  
-- 📈 GitHub Stats: `https://github-readme-stats.vercel.app`  
-- 🏆 GitHub Trophies: `https://github-profile-trophy.vercel.app`  
-- 🔁 Streaks: `https://streak-stats.demolab.com`  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro-fiscella&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 
-*(estos se agregan como imágenes generadas en tu README)*.
+—
 
----
+*Kali for friends* 🏹
 
-## 🚀 Contacto
-
-¿Querés colaborar, trabajar en un proyecto o simplemente charlar?  
-📬 ¡Estoy abierto a nuevas oportunidades!
-
-✉️ ramirofiscella@example.com (o tu email)
-
----
-
-<p align="center">
-  ❤️ Gracias por visitar mi perfil! 
-</p>
+![](https://komarev.com/ghpvc/?username=ramiro-fiscella&style=flat-square&color=384fff)
