@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=384FFF&center=true&vCenter=true&width=600&lines=Ramiro+Fiscella;Designer+%2F+Developer;Pixels+meet+functions" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=FFA500&center=true&vCenter=true&width=600&lines=Kali+R.+Fiscella;Designer+%2F+Developer;Pixels+meet+functions" alt="typing" />
 
 </div>
 
