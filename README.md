@@ -8,7 +8,7 @@
 
 Diseño y programo. La mayoría de las veces al mismo proyecto, así que dejé de pensarlos como dos cosas distintas hace tiempo.
 
-Vivo en Buenos Aires. Ahora mismo estoy metido en **GarantíaYa**, desarrollando automatizaciones en **Deluge** para Zoho — CRM, workflows, ese tipo de cosas que nadie ve pero que hacen que todo funcione.
+Vivo en Buenos Aires. Ahora mismo estoy metido en **GarantíaYa**, desarrollando automatizaciones en **Deluge** para Zoho — CRM, workflows, ese tipo de cosas.
 
 <br/>
 
