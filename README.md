@@ -36,12 +36,7 @@ Figma para diseño y prototipado. React, TypeScript, Astro, Tailwind y GSAP del 
   <img src="https://img.shields.io/badge/YouTube_Music-en_repeat-FF0000?style=flat-square&logo=youtubemusic&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ramiro-fiscella&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=384fff&text_color=c9d1d9&icon_color=384fff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro-fiscella&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=384fff&text_color=c9d1d9&hide=html,css" />
-</div>
+<br/>
 
 <br/>
 
