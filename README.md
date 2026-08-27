@@ -11,7 +11,9 @@
 ## Proyectos
 
 **[Travel Bike](https://ramirof.vercel.app/projects/travel-bike)** — UX/UI · 2025
+<br/>
 **[BUMBUM Android](https://ramirof.vercel.app/projects/bumbum)** — UX/UI · 2024
+<br/>
 **[Cleric](https://ramirof.vercel.app/projects/cleric)** — Web Dev & UX/UI · 2023
 
 <br/>
